@@ -2,3 +2,6 @@
 node_modules/
 node_modules/*
 package-lock.json
+
+# chrome userdata 不需要進版控
+User Data_*
